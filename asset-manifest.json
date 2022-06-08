@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/qpick-reactRedux-shop/static/css/main.3973e7a1.css",
-    "main.js": "/qpick-reactRedux-shop/static/js/main.daa0bf42.js",
+    "main.css": "/qpick-reactRedux-shop/static/css/main.3ed8bd23.css",
+    "main.js": "/qpick-reactRedux-shop/static/js/main.156e329a.js",
     "static/media/bannerImg.png": "/qpick-reactRedux-shop/static/media/bannerImg.34f181b7bd91ebc40e62.png",
     "static/media/vk.svg": "/qpick-reactRedux-shop/static/media/vk.66c2e39d66f9f88a3eef92bd700deb95.svg",
     "static/media/inst.svg": "/qpick-reactRedux-shop/static/media/inst.8cb190ee6d7b4ef6404a279dd3f7d94c.svg",
@@ -28,11 +28,11 @@
     "static/media/arrow-down-input.svg": "/qpick-reactRedux-shop/static/media/arrow-down-input.32a421d9e69f08c4a6652aca0d718e64.svg",
     "static/media/arrow-popup.svg": "/qpick-reactRedux-shop/static/media/arrow-popup.9be0767993117fec34775da924d7fe5e.svg",
     "static/media/arrow-down.svg": "/qpick-reactRedux-shop/static/media/arrow-down.23d988cc6bf5406958e8d88e40056f90.svg",
-    "main.3973e7a1.css.map": "/qpick-reactRedux-shop/static/css/main.3973e7a1.css.map",
-    "main.daa0bf42.js.map": "/qpick-reactRedux-shop/static/js/main.daa0bf42.js.map"
+    "main.3ed8bd23.css.map": "/qpick-reactRedux-shop/static/css/main.3ed8bd23.css.map",
+    "main.156e329a.js.map": "/qpick-reactRedux-shop/static/js/main.156e329a.js.map"
   },
   "entrypoints": [
-    "static/css/main.3973e7a1.css",
-    "static/js/main.daa0bf42.js"
+    "static/css/main.3ed8bd23.css",
+    "static/js/main.156e329a.js"
   ]
 }
