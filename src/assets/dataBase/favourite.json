@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "img": "prodImg/headsets/1.png",
+    "name": "Apple BYZ S852I",
+    "price": "2927 ₸",
+    "oldPrice": "3527 ₸",
+    "rating": "4.7",
+    "star": "prodImg/star.svg"
+  },
+  {
+    "id": "2",
+    "img": "prodImg/headsets/2.png",
+    "name": "Apple EarPods",
+    "price": "2327 ₸",
+    "oldPrice": "",
+    "rating": "4.5",
+    "star": "prodImg/star.svg"
+  },
+  {
+    "id": "3",
+    "img": "prodImg/headsets/3.png",
+    "name": "Apple EarPods",
+    "price": "2327 ₸",
+    "oldPrice": "",
+    "rating": "4.3",
+    "star": "prodImg/star.svg"
+  },
+  {
+    "id": "4",
+    "img": "prodImg/headsets/1.png",
+    "name": "Apple BYZ S852I",
+    "price": "2927 ₸",
+    "oldPrice": "3527 ₸",
+    "rating": "4.7",
+    "star": "prodImg/star.svg"
+  },
+  {
+    "id": "5",
+    "img": "prodImg/headsets/2.png",
+    "name": "Apple EarPods",
+    "price": "2327 ₸",
+    "oldPrice": "",
+    "rating": "4.5",
+    "star": "prodImg/star.svg"
+  },
+  {
+    "id": "6",
+    "img": "prodImg/headsets/3.png",
+    "name": "Apple EarPods",
+    "price": "2327 ₸",
+    "oldPrice": "",
+    "rating": "4.3",
+    "star": "prodImg/star.svg"
+  }
+]

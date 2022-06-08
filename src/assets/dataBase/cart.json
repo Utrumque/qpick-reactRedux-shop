@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "img": "prodImg/headsets/1.png",
+    "name": "Apple BYZ S852I",
+    "price": "2927 ₸",
+    "oldPrice": "3527 ₸",
+    "rating": "4.7",
+    "star": "prodImg/star.svg",
+    "modelCategory": "Наушники"
+  },
+  {
+    "id": 2,
+    "img": "prodImg/headsets/2.png",
+    "name": "Apple BYZ S852I",
+    "price": "2927 ₸",
+    "oldPrice": "3527 ₸",
+    "rating": "4.7",
+    "star": "prodImg/star.svg",
+    "modelCategory": "Наушники"
+  },
+  {
+    "id": 3,
+    "img": "prodImg/headsets/3.png",
+    "name": "Apple BYZ S852I",
+    "price": "2927 ₸",
+    "oldPrice": "3527 ₸",
+    "rating": "4.7",
+    "star": "prodImg/star.svg",
+    "modelCategory": "Наушники"
+  }
+]

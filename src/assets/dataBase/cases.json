@@ -1,0 +1,119 @@
+[
+  {
+  "name": "Чехлы",
+  "id": 1,
+  "categories": [
+    {
+      "img": "prodImg/cases/1.png",
+      "category": "Стеклянный",
+      "id": 10,
+      "prods": [
+        {
+          "id": 1,
+          "img": "prodImg/cases/1.png",
+          "name": "Apple BYZ S852I",
+          "price": 2927,
+          "oldPrice": 3527,
+          "rating": "4.7",
+          "star": "prodImg/star.svg",
+          "modelCategory": "Стеклянный"
+        },
+        {
+          "id": 11,
+          "img": "prodImg/cases/1.png",
+          "name": "Apple BYZ S852I",
+          "price": 2927,
+          "oldPrice": 3527,
+          "rating": "4.7",
+          "star": "prodImg/star.svg",
+          "modelCategory": "Стеклянный"
+        },
+        {
+          "id": 12,
+          "img": "prodImg/cases/1.png",
+          "name": "Apple BYZ S852I",
+          "price": 2927,
+          "oldPrice": 3527,
+          "rating": "4.7",
+          "star": "prodImg/star.svg",
+          "modelCategory": "Стеклянный"
+        }
+        ]
+    },
+    {
+      "img": "prodImg/cases/2.png",
+      "category": "Силиконовый",
+      "id": 2,
+      "prods": [
+        {
+          "id": 13,
+          "img": "prodImg/cases/2.png",
+          "name": "Apple BYZ S852I",
+          "price": 2927,
+          "oldPrice": 3527,
+          "rating": "4.7",
+          "star": "prodImg/star.svg",
+          "modelCategory": "Силиконовый"
+        },
+        {
+          "id": 14,
+          "img": "prodImg/cases/2.png",
+          "name": "Apple BYZ S852I",
+          "price": 2927,
+          "oldPrice": 3527,
+          "rating": "4.7",
+          "star": "prodImg/star.svg",
+          "modelCategory": "Силиконовый"
+        },
+        {
+          "id": 15,
+          "img": "prodImg/cases/2.png",
+          "name": "Apple BYZ S852I",
+          "price": 2927,
+          "oldPrice": 3527,
+          "rating": "4.7",
+          "star": "prodImg/star.svg",
+          "modelCategory": "Силиконовый"
+        }
+        ]
+    },
+    {
+      "img": "prodImg/cases/3.png",
+      "category": "Кожаный",
+      "id": 3,
+      "prods": [
+        {
+          "id": 16,
+          "img": "prodImg/cases/3.png",
+          "name": "Apple BYZ S852I",
+          "price": 2927,
+          "oldPrice": 3527,
+          "rating": "4.7",
+          "star": "prodImg/star.svg",
+          "modelCategory": "Кожаный"
+        },
+        {
+          "id": 17,
+          "img": "prodImg/cases/3.png",
+          "name": "Apple BYZ S852I",
+          "price": 2927,
+          "oldPrice": 3527,
+          "rating": "4.7",
+          "star": "prodImg/star.svg",
+          "modelCategory": "Кожаный"
+        },
+        {
+          "id": 18,
+          "img": "prodImg/cases/3.png",
+          "name": "Apple BYZ S852I",
+          "price": 2927,
+          "oldPrice": 3527,
+          "rating": "4.7",
+          "star": "prodImg/star.svg",
+          "modelCategory": "Кожаный"
+        }
+        ]
+      }
+    ]
+  }
+]

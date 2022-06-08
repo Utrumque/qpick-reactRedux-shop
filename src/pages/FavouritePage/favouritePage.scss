@@ -1,0 +1,97 @@
+.favourite {
+	flex: 1;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 30px;
+	margin-top: 30px;
+}
+.product {
+	background: #ffffff;
+	box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+	border-radius: 30px;
+	max-width: 350px;
+	max-height: 395px;
+	height: 100vh;
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: flex-end;
+	transition: all 0.2s ease-in-out;
+	&:hover {
+		transform: translateY(-5px);
+	}
+	&__fav {
+		position: absolute;
+		top: 15px;
+		left: 15px;
+		transition: all 0.2s linear;
+		cursor: pointer;
+		#fav {
+			fill: #ffffff;
+		}
+		&:hover {
+			transform: scale(1.1);
+		}
+		&--active {
+			#fav {
+				fill: #df7575;
+				stroke: none;
+			}
+		}
+	}
+	&__img {
+		flex: 1;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+	a {
+		margin: auto auto;
+	}
+	&__info {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		font-weight: 600;
+		min-height: 40px;
+	}
+	&__name {
+		margin-left: 22px;
+		font-size: 17px;
+		line-height: 21px;
+		color: #1c1c27;
+	}
+	&__price {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+		margin-right: 21px;
+		margin-left: 100px;
+	}
+	&__price-current {
+		font-size: 17px;
+		line-height: 21px;
+		color: #ffa542;
+	}
+	&__price-old {
+		font-size: 13px;
+		line-height: 16px;
+		text-decoration-line: line-through;
+		color: #ffce7f;
+	}
+	&__rating {
+		display: flex;
+		margin: 9px 0 30px 25px;
+		&-ico {
+			margin-right: 10px;
+		}
+		&-text {
+			font-weight: 600;
+			font-size: 17px;
+			line-height: 21px;
+			color: #838383;
+		}
+	}
+}

@@ -1,0 +1,79 @@
+.prod {
+	background: #ffffff;
+	box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+	border-radius: 30px;
+	max-width: 633px;
+	margin-bottom: 13px;
+	&__top {
+		display: flex;
+		align-items: center;
+		margin-top: 18px;
+		position: relative;
+	}
+	&__img {
+		margin-left: 18px;
+		img {
+			width: 146px;
+			height: 136px;
+		}
+	}
+	&__info {
+		margin: auto 23px;
+	}
+	&__name {
+		font-weight: 500;
+		font-size: 17px;
+		line-height: 21px;
+		color: #1c1c27;
+		margin-bottom: 12px;
+	}
+	&__price {
+		font-weight: 600;
+		font-size: 15px;
+		line-height: 18px;
+		color: #aaaaaa;
+	}
+	&__delete {
+		position: absolute;
+		top: 0;
+		right: 0;
+		background-color: transparent;
+		margin-top: 18px;
+		margin-right: 28px;
+		&:hover {
+			transition: all 0.2s linear;
+			transform: scale(1.1);
+		}
+	}
+	&__bottom {
+		display: flex;
+		align-items: center;
+		padding: 17px 0 17px 17px;
+	}
+	&__minus {
+		background-color: transparent;
+	}
+	&__plus {
+		background-color: transparent;
+	}
+	&__count {
+		margin: 0 23px;
+		font-weight: 600;
+		font-size: 17px;
+		line-height: 21px;
+		color: #000000;
+	}
+	&__sum {
+		font-weight: 600;
+		font-size: 15px;
+		line-height: 18px;
+		text-align: right;
+		color: #1c1c27;
+		margin-left: auto;
+		margin-right: 21px;
+	}
+	button:disabled {
+		opacity: 0.5;
+		cursor: default;
+	}
+}

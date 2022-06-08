@@ -1,0 +1,272 @@
+[
+  {
+    "brand": "Apple",
+    "id": 1,
+    "models": [
+      {
+      "model": "iPhone 12",
+      "id": 1
+      },
+      {
+      "model": "iPhone 12 Max",
+      "id": 2
+      },
+      {
+      "model": "iPhone 13",
+      "id": 3
+      },
+      {
+      "model": "iPhone 13 Max",
+      "id": 4
+      },
+      {
+      "model": "iPhone 13 Pro Max",
+      "id": 5
+      },
+      {
+      "model": "iPhone 14",
+      "id": 6
+      }
+    ]
+  },
+  {
+    "brand": "INOI",
+    "id": 2,
+    "models": [
+      {
+      "model": "INOI 12",
+      "id": 1
+      },
+      {
+      "model": "INOI 12 Max",
+      "id": 2
+      },
+      {
+      "model": "INOI 13",
+      "id": 3
+      },
+      {
+      "model": "INOI 13 Max",
+      "id": 4
+      },
+      {
+      "model": "INOI 13 Pro Max",
+      "id": 5
+      },
+      {
+      "model": "INOI 14",
+      "id": 6
+      }
+    ]
+  },
+  {
+    "brand": "Nokia",
+    "id": 3,
+    "models": [
+      {
+      "model": "Nokia 12",
+      "id": 1
+      },
+      {
+      "model": "Nokia 12 Max",
+      "id": 2
+      },
+      {
+      "model": "Nokia 13",
+      "id": 3
+      },
+      {
+      "model": "Nokia 13 Max",
+      "id": 4
+      },
+      {
+      "model": "Nokia 13 Pro Max",
+      "id": 5
+      },
+      {
+      "model": "Nokia 14",
+      "id": 6
+      }
+    ]
+  },
+  {
+    "brand": "Oppo",
+    "id": 4,
+    "models": [
+      {
+      "model": "Oppo 12",
+      "id": 1
+      },
+      {
+      "model": "Oppo 12 Max",
+      "id": 2
+      },
+      {
+      "model": "Oppo 13",
+      "id": 3
+      },
+      {
+      "model": "Oppo 13 Max",
+      "id": 4
+      },
+      {
+      "model": "Oppo 13 Pro Max",
+      "id": 5
+      },
+      {
+      "model": "Oppo 14",
+      "id": 6
+      }
+    ]
+  },
+  {
+    "brand": "Apple",
+    "id": 5,
+    "models": [
+      {
+      "model": "Xiaomi 12",
+      "id": 1
+      },
+      {
+      "model": "Xiaomi 12 Max",
+      "id": 2
+      },
+      {
+      "model": "Xiaomi 13",
+      "id": 3
+      },
+      {
+      "model": "Xiaomi 13 Max",
+      "id": 4
+      },
+      {
+      "model": "Xiaomi 13 Pro Max",
+      "id": 5
+      },
+      {
+      "model": "Xiaomi 14",
+      "id": 6
+      }
+    ]
+  },
+  {
+    "brand": "Realme",
+    "id": 6,
+    "models": [
+      {
+      "model": "Realme 12",
+      "id": 1
+      },
+      {
+      "model": "Realme 12 Max",
+      "id": 2
+      },
+      {
+      "model": "Realme 13",
+      "id": 3
+      },
+      {
+      "model": "Realme 13 Max",
+      "id": 4
+      },
+      {
+      "model": "Realme 13 Pro Max",
+      "id": 5
+      },
+      {
+      "model": "Realme 14",
+      "id": 6
+      }
+    ]
+  },
+  {
+    "brand": "Samsung",
+    "id": 7,
+    "models": [
+      {
+      "model": "Samsung 12",
+      "id": 1
+      },
+      {
+      "model": "Samsung 12 Max",
+      "id": 2
+      },
+      {
+      "model": "Samsung 13",
+      "id": 3
+      },
+      {
+      "model": "Samsung 13 Max",
+      "id": 4
+      },
+      {
+      "model": "Samsung 13 Pro Max",
+      "id": 5
+      },
+      {
+      "model": "Samsung 14",
+      "id": 6
+      }
+    ]
+  },
+  {
+    "brand": "Sony",
+    "id": 8,
+    "models": [
+      {
+      "model": "Sony 12",
+      "id": 1
+      },
+      {
+      "model": "Sony 12 Max",
+      "id": 2
+      },
+      {
+      "model": "Sony 13",
+      "id": 3
+      },
+      {
+      "model": "Sony 13 Max",
+      "id": 4
+      },
+      {
+      "model": "Sony 13 Pro Max",
+      "id": 5
+      },
+      {
+      "model": "Sony 14",
+      "id": 6
+      }
+    ]
+  },
+  {
+    "brand": "Vivo",
+    "id": 9,
+    "models": [
+      {
+      "model": "Vivo 12",
+      "id": 1
+      },
+      {
+      "model": "Vivo 12 Max",
+      "id": 2
+      },
+      {
+      "model": "Vivo 13",
+      "id": 3
+      },
+      {
+      "model": "Vivo 13 Max",
+      "id": 4
+      },
+      {
+      "model": "Vivo 13 Pro Max",
+      "id": 5
+      },
+      {
+      "model": "Vivo 14",
+      "id": 6
+      }
+    ]
+  }
+]

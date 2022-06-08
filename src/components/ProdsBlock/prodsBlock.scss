@@ -1,0 +1,13 @@
+@media (max-width: 1000px) {
+	.products__inner {
+		display: none;
+	}
+	.products .products__slick {
+		display: block;
+	}
+}
+@media (min-width: 1000px) {
+	.products .products__slick {
+		display: none;
+	}
+}

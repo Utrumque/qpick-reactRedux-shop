@@ -1,0 +1,14 @@
+.categoryInner {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 30px;
+	.product {
+		&__info {
+			display: flex;
+		}
+		a {
+			margin: 10px auto 0 auto;
+			max-height: 290px;
+		}
+	}
+}

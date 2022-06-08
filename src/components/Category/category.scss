@@ -1,0 +1,25 @@
+.category {
+	background: #ffffff;
+	box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+	border-radius: 30px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	cursor: pointer;
+	transition: transform 0.2s ease-in-out;
+	&:hover {
+		transform: translateY(-5px);
+	}
+	&__img {
+		margin-top: 25px;
+	}
+	&__name {
+		font-weight: 600;
+		font-size: 17px;
+		line-height: 21px;
+		color: #1c1c27;
+		margin-top: 20px;
+		margin-bottom: 50px;
+	}
+}

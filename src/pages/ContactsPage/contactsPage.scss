@@ -1,0 +1,121 @@
+.contacts {
+	display: flex;
+	justify-content: center;
+	&__main {
+		max-width: 760px;
+		margin-right: 60px;
+		width: 100%;
+	}
+	&__map-block {
+		background: #ffffff;
+		box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+		border-radius: 30px;
+		padding: 15px 18px 27px 18px;
+	}
+	&__title {
+		font-weight: 600;
+		font-size: 17px;
+		line-height: 21px;
+		color: #1c1c27;
+		padding-bottom: 20px;
+	}
+	&__map {
+		max-width: 722px;
+		width: 100%;
+		max-height: 424px;
+		height: 100vh;
+	}
+	&__adress {
+		display: flex;
+		justify-content: flex-start;
+		align-items: center;
+		font-weight: 500;
+		margin-top: 13px;
+	}
+	&__adress-inner {
+		margin-left: 12px;
+	}
+	&__adress-city {
+		font-size: 15px;
+		line-height: 18px;
+		color: #000000;
+	}
+	&__adress-building {
+		font-size: 13px;
+		line-height: 16px;
+		color: #838383;
+	}
+	&__main-tel {
+		font-weight: 600;
+		font-size: 25px;
+		line-height: 30px;
+		color: #000000;
+		display: flex;
+		justify-self: center;
+		align-self: center;
+		margin-top: 44px;
+	}
+	&__tel-number {
+		margin-left: 28px;
+		color: #000000;
+		transition: all 0.2s ease-in-out;
+		position: relative;
+		&::after {
+			content: "";
+			position: absolute;
+			bottom: 0;
+			left: 0;
+			width: 209px;
+			height: 0.1em;
+			background-color: #838383;
+			opacity: 0;
+			transition: opacity 300ms, transform 300ms;
+		}
+		&:hover::after,
+		&:focus::after {
+			opacity: 1;
+			transform: translate3d(0, 0.2em, 0);
+		}
+	}
+	&__social {
+		background: #ffffff;
+		box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+		border-radius: 30px;
+		width: 97px;
+		height: 97px;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		cursor: pointer;
+		transition: all 0.2s ease;
+		&:not(:last-child) {
+			margin-bottom: 14px;
+		}
+		&:hover {
+			background-color: #ece4e4;
+		}
+		&:active {
+			transform: scale(0.9);
+			background-color: #dddada;
+		}
+	}
+}
+@media (max-width: 950px) {
+	.contacts {
+		flex-direction: column;
+		&__main {
+			margin: 0;
+		}
+		&__socials {
+			display: grid;
+			grid-template-columns: 1fr 1fr;
+		}
+		&__main-tel {
+			margin-bottom: 20px;
+		}
+		&__social {
+			width: 170px;
+			height: 160px;
+		}
+	}
+}

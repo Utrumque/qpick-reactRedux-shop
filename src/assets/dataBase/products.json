@@ -1,0 +1,111 @@
+[
+  {
+  "category": "Наушники",
+  "id": 2,
+  "prods": [
+    {
+    "id": 1,
+    "img": "prodImg/headsets/1.png",
+    "name": "Apple BYZ S852I",
+    "price": 2927,
+    "oldPrice": 3527,
+    "rating": "4.7",
+    "star": "prodImg/star.svg",
+    "modelCategory": "Наушники",
+    "quantity": 1
+    },
+    {
+    "id": 2,
+    "img": "prodImg/headsets/2.png",
+    "name": "Apple EarPods",
+    "price": 2327,
+    "oldPrice": null,
+    "rating": "4.5",
+    "star": "prodImg/star.svg",
+    "modelCategory": "Наушники",
+    "quantity": 1
+    
+    },
+    {
+    "id": 3,
+    "img": "prodImg/headsets/3.png",
+    "name": "Apple AirPods",
+    "price": 2327,
+    "oldPrice": null,
+    "rating": "4.3",
+    "star": "prodImg/star.svg",
+    "modelCategory": "Наушники",
+    "quantity": 1
+    },
+    {
+    "id": 4,
+    "img": "prodImg/headsets/1.png",
+    "name": "Apple BYZ S852I",
+    "price": 2927,
+    "oldPrice": 3527,
+    "rating": "4.7",
+    "star": "prodImg/star.svg",
+    "modelCategory": "Наушники",
+    "quantity": 1
+    },
+    {
+    "id": 5,
+    "img": "prodImg/headsets/2.png",
+    "name": "Apple EarPods",
+    "price": 2327,
+    "oldPrice": null,
+    "rating": "4.5",
+    "star": "prodImg/star.svg",
+    "modelCategory": "Наушники",
+    "quantity": 1
+    },
+    {
+    "id": 6,
+    "img": "prodImg/headsets/3.png",
+    "name": "Apple AirPods",
+    "price": 2327,
+    "oldPrice": null,
+    "rating": "4.3",
+    "star": "prodImg/star.svg",
+    "modelCategory": "Наушники",
+    "quantity": 1
+    }
+  ]
+  },
+  {
+  "category": "Беспроводные наушники",
+  "id": 3,
+  "prods": [
+    {
+    "id": 7,
+    "img": "prodImg/wireless/1.png",
+    "name": "Apple AirPods",
+    "price": 9527,
+    "rating": "4.7",
+    "star": "prodImg/star.svg",
+    "modelCategory": "Беспроводные наушники",
+    "quantity": 1
+    },
+    {
+    "id": 8,
+    "img": "prodImg/wireless/2.png",
+    "name": "GERLAX GH-04",
+    "price": 6527,
+    "rating": "4.5",
+    "star": "prodImg/star.svg",
+    "modelCategory": "Беспроводные наушники",
+    "quantity": 1
+    },
+    {
+    "id": 9,
+    "img": "prodImg/wireless/3.png",
+    "name": "BOROFONE BO4",
+    "price": 7527,
+    "rating": "4.3",
+    "star": "prodImg/star.svg",
+    "modelCategory": "Беспроводные наушники",
+    "quantity": 1
+    }
+  ]
+  }
+]
